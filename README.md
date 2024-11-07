@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tauquir Ahmed</h1>
-<h3 align="center">Competitive Coder</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tauquirahmed&label=Profile%20views&color=0e75b6&style=flat" alt="tauquirahmed" /> </p>
 
@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tauquirahmed14" target="blank"><img src="https://img.shields.io/twitter/follow/tauquirahmed14?logo=twitter&style=for-the-badge" alt="tauquirahmed14" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Competitive Coding**
-
-- 📫 How to reach me **tauquirahmed9@gmail.com**
-
-- ⚡ Fun fact **I love working with LLMs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
